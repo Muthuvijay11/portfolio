@@ -264,4 +264,10 @@ body.dark .skill-box span {
   transform: translateY(-4px);
   box-shadow: 0 10px 25px rgba(0,0,0,0.3);
 }
+.profile-pic {
+  width: 11%;
+  height: auto
+  object-fit:auto}
+
+
 
