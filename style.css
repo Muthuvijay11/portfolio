@@ -207,8 +207,8 @@ section h2 {
     margin: 20px;
   }
   .profile-pic {
-    width: 130px;
-    max-width: 70%;
+   width: 120px;
+    height: 120px;
 }
 /* Dark Mode */
 body.dark {
@@ -260,9 +260,8 @@ body.dark .skill-box span {
   box-shadow: 0 10px 25px rgba(0,0,0,0.3);
 }
 .profile-pic {
-  width: 180px;
-  max-width: 80%;
-  height: auto;
+  width: 160px;
+  height: 160;
   border-radius: 50%;
   object-fit: contain;
   border: 5px solid white;
@@ -271,3 +270,4 @@ body.dark .skill-box span {
   margin: 20px auto;
   animation: float 3s ease-in-out infinite;
 }
+
